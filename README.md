@@ -49,42 +49,6 @@
 - **Video Chat**: Daily.co WebRTC
 - **Deployment**: Netlify
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js 18+ and npm
-- Modern web browser with WebRTC support
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/syntrio-ai-platform.git
-   cd syntrio-ai-platform
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open in browser**
-   ```
-   http://localhost:5173
-   ```
-
-### Build for Production
-
-```bash
-npm run build
-npm run preview
-```
-
 ## 🎯 How It Works
 
 ### 1. **Content Setup**
