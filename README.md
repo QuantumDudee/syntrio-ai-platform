@@ -203,10 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Daily.co**: WebRTC video chat infrastructure
 - **Bolt**: Development platform and deployment tools
 
-## 📞 Support
-
-For support, email support@syntrio.ai or join our community discussions.
-
 ---
 
 **Built with ❤️ using Bolt** - Powering the next generation of AI applications
